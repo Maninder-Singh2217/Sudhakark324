@@ -1,0 +1,40 @@
+The first computer, designed by Charles Babbage in the 19th century was basically an Analytical Engine and it was this design that the basic framework of the computers of today are based on.
+
+In general, computers can be classified into 5 generations:
+
+First Generation (1940-1956) Vacuum Tubes. ...
+Second Generation (1956-1963) Transistors. ...
+Third Generation (1964-1971) Integrated Circuits. ...
+Fourth Generation (1971-Present) Microprocessors. ...
+Fifth Generation (Present and Beyond) Artificial Intelligence.
+
+**********************
+ SECOND GENERATION
+**********************
+
+Second generation computers can be characterized largely by their use of transistors.  They replaced the job of vacuum tubes through the 1950s and 1960s. These transistors used less power and had more memory access. 
+Some advantages of second generation over first are:
+
+» Smaller in size compared to the first generation of computer.
+» The second generations computers were more reliable.
+» Used less energy and were not heated as much as the first one.
+» Better speed and could calculate data in microseconds.
+» Used faster peripherals.
+» Better portability as compared to the first generation.
+» Accuracy improved.
+» Used assembly language as well.
+
+
+
+
+There were also some disadvantages to this generation;
+» Cooling system was required.
+» Only used for specific purposes
+» Constant maintenance was required
+» Commercial production was difficult
+» Costly and not versatile
+» Puch cards were used for input.
+
+
+In totality, second generation was a huge step towards the making of the compact, multi tasking computer system we have today.
+Hence, it is important to learn about the passage of the history through which these technologies flourished, in order to learn and better the future generations of computer.
